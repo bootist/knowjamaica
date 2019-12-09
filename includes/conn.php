@@ -2,12 +2,15 @@
 
 <?php
     //$_POSTDatabase
-    $servername = '127.0.0.1';
-    $username = 'root';
-    $password = '';
-    $dbname = 'knowja_db';
+    // $servername = '127.0.0.1';
+    // $username = 'root';
+    // $password = '';
+    // $dbname = 'knowja_db';
 //Database
-
+$servername = 'remotemysql.com';
+$username = 'PIpIh99r63';
+$password = 'mKY0uEdUxe';
+$dbname = 'PIpIh99r63';
     
 ?>
 
